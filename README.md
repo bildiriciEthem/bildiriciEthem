@@ -4,5 +4,5 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bildiriciEthem&show_icons=false&t&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bildiriciEthem&show_icons=true&t&theme=tokyonight)
  
